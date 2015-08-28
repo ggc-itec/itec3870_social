@@ -14,3 +14,6 @@
   * Chicken 
   * Beef
   * Spicy Seafood
+
+> Everyone has a place, it shouldn't be inside someone else
+> - By: (I forgot)
