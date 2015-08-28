@@ -9,7 +9,7 @@
 [Tumblr here](http://tumblr.com)
 
 #Favorite Food
-*Ramen 
+* Ramen 
   * Asian
   * Chicken 
   * Beef
