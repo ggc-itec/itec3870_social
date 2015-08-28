@@ -14,7 +14,6 @@
  * Philly Cheese Steak
  * Sushi 
  * Rice 
- * 
  
 #Favorite Movie/Book
  * **Favorite Movie**: Spirited Away
