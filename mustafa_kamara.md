@@ -8,13 +8,14 @@
 
 
 #Favorite Food: 
-*Cheeseburgers(Why I love it :smile)
- *Mostly juicy.
- *Very fulfilling and easy to make.
-*Pasta(Why I love it)
- *It can come in many shapes and sizes.
- *It's easy to make and the types of sauce you can make are endless.
- *It's good for any time.
+
+* Item Cheeseburgers(Why I love it :smile:)
+  * Item Mostly juicy.
+  * Item Very fulfilling and easy to make.
+* Item Pasta(Why I love it :smile:)
+  * Item It can come in many shapes and sizes.
+  * Item It's easy to make and the types of sauce you can make are endless.
+  * Item It's good for any time.
 
 
 #Favorite Movie:
