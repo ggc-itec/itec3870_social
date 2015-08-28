@@ -15,7 +15,7 @@
  * I am a master at making the **best** mac-n-cheese dish... EVER! Also better re-heated!
 
 * Ice Cream
- * Cover this stuff in chocolate syrup and you have a meal fit for a king!
+ * Cover this stuff in chocolate syrup and you have a meal fit for a king! :crown:
 
 * Craft Beer
  * Any kind of IPA will make my mouth water. Lets get a :beer: sometime!
