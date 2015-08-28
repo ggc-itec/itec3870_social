@@ -13,11 +13,12 @@
   * "An apple a day keeps the doctor away"
 * Oranges
   * Because they're orange! 
-* Grapes
-* 
+* Pineapple
+ * :pineapple:
+
 ## Favorite Movie 
   * Ingorious Bastards & Djang Unchained
-  * :D :Beer:
+  * :sunglasses:
 
 ## Favorite Game
   * The Secret World!
