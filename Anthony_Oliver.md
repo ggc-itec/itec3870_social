@@ -7,7 +7,7 @@
 
 ![biglebow](https://cloud.githubusercontent.com/assets/11616627/9550960/585653ca-4d7c-11e5-8607-22a4a511e30a.jpg)
 
-# Favorite Foods & Beverages
+# Favorite Foods & Beverages :beers: :fork_and_knife:
 * Pizza
  * I mean come on, who doesn't like pizza while coding late at night! It's better re-heated too!
 
