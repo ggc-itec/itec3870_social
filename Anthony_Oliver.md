@@ -20,6 +20,9 @@
 * Craft Beer
  * Any kind of IPA will make my mouth water. Lets get a :beer: sometime!
 
+* Coffee
+ * In the morning I look like :shit: but after some :coffee: I look like :grinning:
+
 # Favorite Movie :ocean:
 * Brother
  * I really love surfing and this is currently my favorite short film to watch or even just listen to in the background while I work on school assignments. Go check it out over on [WhatYouth] (http://whatyouth.com/films/act-natural-we-found-kolohe-andino-coming-2015/brother-a-new-film-from-what-youth/). :surfer:
