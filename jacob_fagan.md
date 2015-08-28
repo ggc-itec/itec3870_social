@@ -4,7 +4,7 @@
 > - Rick (Rick and Morty)
 
 # An Image
-![A gif](https://i.imgur.com/drFdXvV.webm)
+![A picture]()
 
 # Favorite Foods
 * Pizza
@@ -12,7 +12,7 @@
   * Mushroom
 
 # Favorite Movie
-* Jurassic Park - Dinosaurs are cool
+* Jurassic Park - Dinosaurs are cool :smile:
 
 # Favorite Game
 * Silent Hill 2 - Brilliant horror game with excellent atmosphere, engaging story, and dark themes :scream:
