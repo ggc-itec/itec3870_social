@@ -9,17 +9,17 @@
 
 #Favorite Food: 
 *Cheeseburgers(Why I love it :smile)
-  *Mostly juicy.
-  *Very fulfilling and easy to make.
+ *Mostly juicy.
+ *Very fulfilling and easy to make.
 *Pasta(Why I love it)
-  *It can come in many shapes and sizes.
-  *It's easy to make and the types of sauce you can make are endless.
-  *It's good for any time.
+ *It can come in many shapes and sizes.
+ *It's easy to make and the types of sauce you can make are endless.
+ *It's good for any time.
 
 
 #Favorite Movie:
 Shawshank redemption because it didn't feel like a movie but rather a realistic look at the meaning of life. :open_mouth:
 
 #Favorite Game:
-At the moment I would say Batman Arkham Knight(Who doesn't like batman) :thumpsup:
+At the moment I would say Batman Arkham Knight(Who doesn't like batman) :joy:
 In general, I really enjoy the gameplay and the challenges that the game presents.
