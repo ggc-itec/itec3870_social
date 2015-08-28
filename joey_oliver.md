@@ -25,7 +25,7 @@ The Lego Movie
  
 # Favorite Game
 [Diablo 3](http://us.battle.net/d3/en/?-)
- * Endless fun slaying demons over and over!
+ * Endless fun slaying demons over and over! :imp:
  * Epic loot!
 
 
