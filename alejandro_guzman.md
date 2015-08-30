@@ -1,27 +1,26 @@
 # Alejandro Guzman
 
-Hi! My name is this guy. I am a **ninja**
+# Favorite Quote
+>"The possession of anything begins in the mind."
+>>-Bruce Lee
 
-:smile: :scream: :beer:
+# Favorite Meme
+![Daft Punk](http://i2.kym-cdn.com/photos/images/original/000/696/028/a5a.gif)
 
-# Favorite food
-* Ramen
-  * Asian
-  * Chicken
-  * Beef
-  * Spicy Seafood
-* Pizza
-  * Cheese
-  * Pepperoni
+# Favorite Food
+- Seafood
+-- Because it tastes clean and light and can make a lot of combinations using it, and coconut is awesome :coconut: :fish: :shrimp: :smile: ::. It also doesn't make you feel full and fat and stuffed and doesn't put me to sleep like chicken or red meat.
+  - Jumbp Coconut Shrimp
+  - Miso Salmon
+  - Calamari
+Also
+- Delicious burgers from Burger 21
+- And really anything with spicy sauce, like chicken wings 
 
-Favorite website [here](http://www.google.com)
-# Cute Cat!
-![Cute Cat](https://cloud.githubusercontent.com/assets/11199390/9548173/fe57bdfa-4d6c-11e5-9b74-def13236e324.jpg)
+# Favorite Movie and Book
+- 
 
-# Some code
-```java
-public String toString(){
-  return "ccaattss!!"
-}
-```
-
+# Favorite Game
+- I'm not much of a gamer (yea so sue me!:tongue:) but I do sometimes (rarely) play Pokemon Yellow and Emerald on an emulator. I played that a lot when I was much younger and I loved it a lot. 
+![Emerald](http://199.101.98.242/media/images/45224-Pokemon_Emerald_%28U%29%28TrashMan%29-29.png)
+![Yellow](http://i.ytimg.com/vi/PHZcYAiw5vs/hqdefault.jpg)
