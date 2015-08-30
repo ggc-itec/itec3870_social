@@ -7,7 +7,7 @@
 # Favorite Meme
 ![Spongebob meme](https://cloud.githubusercontent.com/assets/11199390/9548949/649d3528-4d71-11e5-8e30-320a181fbbd5.jpg)
 
-**I don't know if this qualifies as a meme but I wanted to leave this here anyway!**
+**I'll just leave this right here**
 
 ![Daft Punk](https://cloud.githubusercontent.com/assets/11199390/9568912/f2b374ce-4f26-11e5-94ae-0fe2f550d5b2.gif)
 
