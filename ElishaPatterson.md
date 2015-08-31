@@ -14,4 +14,5 @@ My favorite meals are:
 It's hard to describe why I like them, but they certainly make my mouth water.
 
 #Movie
-* Lord of the Rings  "+1": "https://github.global.ssl.fastly.net/images/icons/emoji/+1.png?v5"
+* Lord of the Rings ![Emoji](https://s-media-cache-ak0.pinimg.com/70x/c7/a9/d3/c7a9d3136fcb2c41061f18fa164d9e5d.jpg) 
+
