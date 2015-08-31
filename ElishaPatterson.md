@@ -21,6 +21,7 @@ Lord of the Rings
 My favorite game is Scattergories. It's a great game to play with other people, particularly people
 you're just getting to know as it an interesting way to see what creative ideas they can come up
 with when put under the pressure of the time limit!
+
 ![Scattergories](http://www.zyonmagazine.com/wp-content/uploads/2014/02/pic1395133.jpg)
 
 
