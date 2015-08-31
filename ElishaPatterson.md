@@ -1,3 +1,3 @@
 #Elisha Patterson
 
-"He is no fool who gives up what he cannot keep to gain what he cannot lose"
+![Visit GitHub!](https://www.truthforlife.org/static/uploads/daily-image-030413b.png)
