@@ -28,7 +28,7 @@ Homer being a hopeless parent
 # Favorite Movie(s)/Book(s)
 ## Movies :dvd:
 * Star Wars saga - it's a mega-popular culture icon
-* Schindler's Liat - a groundbreaking film that deserved its 7 Oscars it won
+* Schindler's List - a groundbreaking film that deserved its 7 Oscars it won
 * Saving Private Ryan - great cast and stunning cinematography/editing/directing
 * MCU - heroes all around, kicking ass all the time
 * Disney - one of the best studios out there that makes movies
