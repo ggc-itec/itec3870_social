@@ -2,7 +2,7 @@
 
 
 # Favorite Quote
-> "No one can make you feel inferiro without your consent"
+> "No one can make you feel inferior without your consent"
 > - By: Eleanor Roosevelt
 
 #Favorite Meme
