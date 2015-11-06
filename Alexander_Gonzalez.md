@@ -19,9 +19,15 @@ I have **two** categories for favorite foods
 
 #Favorite Movie
 
-:scream:
+**Thor 2: The Dark World** :godmode:
+
+This is my favorite movie because it is filled with action and comedy. The action sequences include fast paced motions, quick camera movements and cuts, along with great wsound effects. The comedy side is defined by very subtle comments and actions, such as the movements of Mjölnir :hammer: during the time that Thor is transported among the different worlds.
 
 #Favorite Game
+
+**Minecraft** :scream:
+
+Minecraft is just an epic game. In creative mode :construction:, you have the freedom to desing amazing objects and places. I love being able to create my own living space. :hotel:
 
 
 
