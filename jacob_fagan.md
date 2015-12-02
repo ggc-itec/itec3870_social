@@ -4,7 +4,7 @@
 > - Rick (Rick and Morty)
 
 # An Image
-![A picture]()
+![A picture](http://weknowmemes.com/generator/uploads/generated/g1328281951893602328.jpg)
 
 # Favorite Foods
 * Pizza
