@@ -17,4 +17,6 @@
 * **Spider-Man (2002)** - The action and web effects were the coolest I've seen as a kid. :dash:
 
 ## V. Favorite Game
-* **Xenoblade Chronicles X (Wii U, 2015)** - Amazing art design; awesome music; breathtaking mechs, incredible world; great world building. :sparkles:
+* **Xenoblade Chronicles X (Wii U, 2015)** - Amazing art design; awesome music; enjoyable exploration; breathtaking mechs, incredible world; great world building. Here's a screenshot below! :sparkles:
+
+> ![xenobladechroniclesxnoctilum](http://i.imgur.com/CgFpYrx.jpg)
