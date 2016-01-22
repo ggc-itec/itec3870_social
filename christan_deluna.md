@@ -9,7 +9,7 @@
 ## III. Favorite Food
 1. French fries
 2. Ice cream
-3. Lumpiang Shanghai
+3. Lumpiang shanghai
 4. Orange chicken
 5. Spaghetti
 
