@@ -4,7 +4,7 @@
 > "Your blade... It did not cut deep enough." - Egil
 
 ## II. Favorite Meme
-
+![HARBFEADTUEGWTDLML](http://i1.kym-cdn.com/photos/images/newsfeed/000/544/686/d58.jpg)
 
 ## III. Favorite Food
 1. French fries
@@ -14,15 +14,7 @@
 5. Spaghetti
 
 ## IV. Favorite Movie
-1. Up (2009)
-2. Jumanji (1995)
-3. Spider-Man (2002)
-4. The Big Lebowski (1998)
-5. Inception (2010)
+* Spider-Man (2002)
 
 ## V. Favorite Game
-1. Xenoblade Chronicles (Wii)
-2. Xenoblade Chronicles X (Wii U)
-3. Kid Icarus Uprising (Nintendo 3DS)
-4. Fire Emblem Awakening (Nintendo 3DS)
-5. Crash Bandicoot: Warped (PSX)
+* Xenoblade Chronicles X (Wii U, 2015)
