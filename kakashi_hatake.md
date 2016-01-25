@@ -3,7 +3,7 @@
 
 # Kakashi Hatake
 
-Hi! My name is *Kakashi!* I am a **ninja**
+Hi! My name is *Kakashi!* I am a super **ninja**
 
 :smile: :scream: :beer: :boom: need more :beer: :beer: :beer: :beer: :beer: :beer: :beer: :beer: :beer:
 
