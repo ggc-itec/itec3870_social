@@ -10,12 +10,12 @@
 ###Favorite Food: 
 
 * My favorite food is food. If it looks and tastes good, I approve everything. But...
-  * Nepali Momo (Dumpling)
-
-
+  * Nepali Momo (Nepali style Dumpling)
+  ![More merge conflicts](https://pbs.twimg.com/media/CZHloDAUAAA8fqD.jpg)
 
 #Favorite Movie:
 Shawshank redemption
-  - :hatsoff:
+  - 
 
 #Favorite Game:
+ - Pokemon yellow: I am preety sure who every played this game agrees this was the most legendary Pokemon game.
