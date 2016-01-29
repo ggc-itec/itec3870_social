@@ -18,6 +18,6 @@
 * The Maze Runner - Another awesome movie!
 
 ##Favorite game and why you like it (also use an emoji here):
-* Call of futy
-* Watch Dogs
-* 
+* Call of futy :video_game:
+* Watch Dogs :video_game:
+
