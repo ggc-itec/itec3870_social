@@ -1,7 +1,7 @@
 #Hello, My name is Samuel Medina
 
 ##Your favorite quote:
-> WIP
+> "The hardest thing in the world to understand is the income tax."
 
 ##Picture of your favorite meme:
 ![MEME](https://cloud.githubusercontent.com/assets/15232817/12622641/530db2e2-c4f4-11e5-93ca-11c0f514d8ae.jpg)
