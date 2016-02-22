@@ -20,6 +20,6 @@
 - Space Jam - two words, Michael Jordan
 - Deadpool - it was the first popular R rated movie that set a new standard in super hero movie
 - Star Wars :star: - Movie you must see, young padawan
-- 
+
 **Favorite Game**
 - My favorite game is Mario Kart for N64 - You just can't beat a classic
