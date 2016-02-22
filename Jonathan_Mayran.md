@@ -18,7 +18,7 @@
 
 **Favorite Movie**
 - Space Jam - two words, Michael Jordan
-- Deadpool - it was the first popular R rated movie that set a new standard in super hero movie
+- Deadpool - it set a new standard in super hero movies
 - Star Wars :star: - Movie you must see, young padawan
 
 **Favorite Game**
