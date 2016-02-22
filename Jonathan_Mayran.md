@@ -11,3 +11,12 @@
 - chicken - because it taste like chicken
 - burger - best meal for any time of day
 - pho - it's the best on a cold day
+
+**Favorite Book**
+- Green Eggs and Ham :egg:
+
+
+**Favorite Movie**
+- Space Jam
+- Deadpool
+- Star Wars :star:
