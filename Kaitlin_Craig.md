@@ -1,7 +1,32 @@
-# Hello, my name is Kaitlin.
+##Kaitlin Craig
 
-##I am bored out of my mind.
+###Hello, my name is Kaitlin.
 
-##I need *coffee*.
+>"Nothing in life is to be feared; it is only to be understood."
+>-Marie Curie
 
->I hope it snows eventually...
+>Place a meme here
+
+###Favorite Foods
+
+>Pizza
+
+>Why:
+
+>Shrimp Fried Rice
+
+>Why:
+
+>Guacamole
+
+>Why:
+
+###Favorite Movie
+
+>Mad Max: Fury Road (Add emoji)
+
+###Favorite Game 
+
+>Mario Kart (Add emoji)
+
+>Add picture
