@@ -6,8 +6,7 @@
 >*-Marie Curie*
 
 ###Favorite Meme
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![JLaw](https://jadegreenvegan.files.wordpress.com/2014/07/jennifer-lawrence-wheres-the-pizza-meme.jpg)
 
 ###Favorite Foods
 * Pizza
