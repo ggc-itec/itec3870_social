@@ -2,31 +2,27 @@
 
 ###Hello, my name is Kaitlin.
 
->"Nothing in life is to be feared; it is only to be understood."
->-Marie Curie
+>*"Nothing in life is to be feared; it is only to be understood."*
+>*-Marie Curie*
 
->Place a meme here
+###Favorite Meme
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 
 ###Favorite Foods
-
->Pizza
-
->Why:
-
->Shrimp Fried Rice
-
->Why:
-
->Guacamole
-
->Why:
+* Pizza
+  * All the toppings you could want. And cheese.
+* Shrimp With Fried Rice
+  * Hibochi is the bomb period.
+* Guacamole
+  * Cilantro.
 
 ###Favorite Movie
 
->Mad Max: Fury Road (Add emoji)
+>Mad Max: Fury Road :skull:
 
 ###Favorite Game 
 
->Mario Kart (Add emoji)
+>Mario Kart :mushroom:
 
 >Add picture
