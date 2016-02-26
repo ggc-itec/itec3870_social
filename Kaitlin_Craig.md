@@ -20,8 +20,12 @@
 
 >Mad Max: Fury Road :skull:
 
+>The imagery is surreal.
+
 ###Favorite Game 
 
 >Mario Kart :mushroom:
+
+>Rainbow Road.
 
 ![Mario](http://vignette3.wikia.nocookie.net/nintendo3ds/images/d/da/Mario_(Mario_Kart_7).png/revision/latest?cb=20111113012239)
