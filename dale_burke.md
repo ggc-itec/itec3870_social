@@ -17,12 +17,16 @@ Doge!
 
 ### Favorite Foods
 <img src="https://camo.githubusercontent.com/5c2eac9736e831ddc3e1c20d2de0579c2be31556/687474703a2f2f70686f746172657374617572616e742e636f6d2f696d616765732f626f6b686f2e6a7067" width="300" alt="Pho"></img>
-- Pho is pretty amazing stuff
-- Moe's (food from Moe's, in general)
+- Pho is pretty amazing stuff!
+- Moe's (food from Moe's, in general); generous portions + great taste!
 - :cookie: , :hamburger: , :bento: , :ramen: , :spaghetti: , :sushi: , :corn: , and :tea:
 
 ### Favorite Movie
 <img src="https://camo.githubusercontent.com/9655ff882af03cbead3ccd7f3c91fbdce378d2d1/687474703a2f2f646576696c7363616e796f6e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031342f30372f4f66666963652d53706163652e6a7067" width="300" alt="Office Space"></img>
+
+I like this movie because it is not a book (as I am almost <br>entirely illiterate).
+It's a cult classic with a fun concept. :coffee:
+
 ### Favorite Game
 <img src="https://cloud.githubusercontent.com/assets/15232449/12721164/5132bedc-c8cc-11e5-8258-0c16775c90eb.png" width="300" alt="This is where most of my extra :heavy_dollar_sign: goes."></img>
 
