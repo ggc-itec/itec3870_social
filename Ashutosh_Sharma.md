@@ -17,9 +17,10 @@
 
 #Favorite Movie:
 Shawshank redemption
-  - We can watch this movie with anyone, anytime, anywhere and I doubt anyone is going to complain about the movie. :smile:
+  - We can watch this movie with anyone, anytime, anywhere and I doubt anyone is going to complain about this movie. :smile:
   - The movie shows the importance of being patient and work towards your goal.
     (without giving to much for the people who have not yet watched the movie :wink:)
 
 #Favorite Game:
- - Pokemon yellow: I am preety sure who every played this game agrees this was the most legendary Pokemon game.
+ - Pokemon yellow: I am pretty sure who every played this game agrees this was the most legendary Pokemon game.
+ - This was my first game in Gameboy!
